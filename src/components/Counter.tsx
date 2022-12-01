@@ -1,4 +1,3 @@
-import React from "react";
 import { Button, Stack } from "react-bootstrap";
 import { useSelector, useDispatch } from "react-redux";
 import { decreament, increament } from "../redux/counter/counterSlice";
